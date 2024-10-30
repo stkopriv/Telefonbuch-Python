@@ -1,6 +1,6 @@
 import random
 
-# Beispiellisten von Ländern, Vornamen und Nachnamen
+# Beispiellisten von Ländern, Vornamen und Nachnamen usw
 beispiel_laender = ["Deutschland", "Frankreich", "Italien", "Spanien", "USA", "Kanada", "Japan", "China", "Indien", "Brasilien", "Russland", "Schweiz", "Österreich", "Niederlande", "Belgien", "Portugal", "Australien", "Neuseeland", "Südafrika", "Ägypten", "Griechenland", "Türkei", "Mexiko", "Argentinien", "Kolumbien", "Chile", "Peru", "Thailand", "Vietnam", "Südkorea"]
 beispiel_vornamen = ["Max", "Anna", "Paul", "Maria", "Felix", "Sophie", "Tim", "Lena", "Moritz", "Laura", "Julian", "Emma", "Jonas", "Lisa", "Leon", "Sarah", "Luca", "Hannah", "Finn", "Lea", "Elias", "Mia", "Nico", "Jana", "Jan", "Clara", "David", "Lara", "Lukas", "Elena"]
 beispiel_nachnamen = ["Müller", "Schmidt", "Schneider", "Fischer", "Weber", "Meyer", "Wagner", "Becker", "Schulz", "Hoffmann", "Schäfer", "Koch", "Bauer", "Richter", "Klein", "Wolf", "Schröder", "Neumann", "Schwarz", "Zimmermann", "Braun", "Krüger", "Hofmann", "Hartmann", "Lange", "Schmitt", "Werner", "Schmitz", "Krause", "Meier"]
